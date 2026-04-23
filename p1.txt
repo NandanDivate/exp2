@@ -1,2 +1,1 @@
 Hello! This is git bash
-git add p1.txt
